@@ -1,0 +1,52 @@
+.fondo{
+  background-image: url(fondo.jpg);
+}
+.navbar {
+    background-color: #333;
+    color: #ff0b0b;
+  }
+  
+  .navbar-brand {
+    font-size: 24px;
+  }
+  
+  .nav-link {
+    font-size: 18px;
+  }
+  
+  /* Estilos para la sección de inicio */
+  #inicio {
+    background-color: #007bff;
+    color: #189c2a;
+  }
+  
+  /* Estilos para la sección de proyectos */
+  #proyectos {
+    background-color: #f8f9fa;
+  }
+  
+  .card {
+    border: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .card-title {
+    font-size: 24px;
+  }
+  
+  .card-text {
+    font-size: 18px;
+  }
+  
+  /* Estilos para la sección de contacto */
+  #contacto {
+    background-color: #0ae2c5;
+  }
+  
+  /* Estilos para el pie de página */
+  footer {
+    background-color: #333;
+    color: #571515;
+    font-size: 14px;
+  }
+  
